@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ymohit
+- 👋 Hi, I’m Mohit Yadav.
 - 👀 I’m interested in machine learning and NLP
 - 💞️ I’m looking to collaborate on efficient GP and computationally efficient deep learning. 
 - 📫 How to reach me ymohit@cs.umass.edu.
