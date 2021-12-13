@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mohit Yadav.
-- 👀 I’m interested in machine learning and NLP
-- 💞️ I’m looking to collaborate on efficient GP and computationally efficient deep learning for NLP. 
+- 👀 I’m interested in computationally methods for machine learning and NLP. 
 - 📫 Email me -> ymohit@cs.umass.edu.
 
 <!---
