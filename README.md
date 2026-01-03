@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohit Yadav.
 - 👀 I’m interested in computationally efficient methods for machine learning and NLP. 
-- 📫 Email me -> ymohit@cs.umass.edu.
+- 📫 Email me -> connect2mohityadav@gmail.com.
 
 <!---
 ymohit/ymohit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
